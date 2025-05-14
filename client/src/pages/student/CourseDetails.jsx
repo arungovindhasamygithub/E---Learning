@@ -188,7 +188,7 @@ const CourseDetails = () => {
       rel="noopener noreferrer"
       className="inline-block px-4 py-2 text-white bg-blue-600 rounded hover:bg-blue-700"
     >
-      View Presentation
+      View
     </a>
   </div>
 )}
